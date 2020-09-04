@@ -1,5 +1,5 @@
 ceshi nehdnnfjjfidjdhjfjedndnfnnffirong ceshihhujhggyhbbjjgvvbjjndhhejdhcbkdi
-#  Retrieve data from Ghhhdhdhhdjdmnfoogle Analytics
+#  Retrieve data from Ghhhdhdhhuuehfhfjrjedjdmnfoogle Analytics
 
 [![Latest Version](https://img.shields.io/github/release/spatie/laravel-analytics.svg?style=flat-square)](https://github.com/spatie/laravel-analytics/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
